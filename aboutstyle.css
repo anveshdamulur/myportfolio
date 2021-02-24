@@ -1,0 +1,29 @@
+#about{
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-image: linear-gradient(rgba(212, 117, 117, 0.1), rgba(0,0,0,0.1)), url('../images/back1.png'); */
+    /* background-image: url('https://i.pinimg.com/originals/45/3f/14/453f143ad31ed8482ebed9c4084b8059.jpg'); */
+
+    background: #83a4d4; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #83a4d4, hsl(183, 100%, 86%)); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #83a4d4, #b6fbff); 
+   min-height: 100vh;
+}   
+
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+section .contentAbout{
+    max-width: 70%;
+}
+
+section .contentAbout h1{
+    color:#2E8B57;
+}
+
+section .contentAbout p{
+    color: #8B4513;
+    font-weight: 800;
+}

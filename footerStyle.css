@@ -1,0 +1,18 @@
+footer {
+    background-color: #474e5d;
+    color:#ddd;
+    min-height:100px;
+    padding-top:20px;
+    padding-bottom:40px;
+    width: 100%;
+}   
+
+footer .nav>li>a {
+    padding:3px;
+    color:#ccc;
+}
+
+footer .nav>li>a:hover {
+    background-color:transparent;
+	color:#fff;
+}

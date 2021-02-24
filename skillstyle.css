@@ -1,0 +1,32 @@
+#skill{
+    /* background: url('https://mdbootstrap.com/img/new/slides/041.jpg'); */
+    /* background: url('../images/wall.jpg'); */
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;   
+    background: #83a4d4; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #83a4d4, hsl(183, 100%, 86%)); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #83a4d4, #b6fbff); 
+   
+}
+#skill .skill-container{
+    background-color:rgba(0, 0, 0, 0.5);
+    color:#F0FFF0;
+    border-radius: 20px;
+    width: 80%;
+    margin: 0 auto;
+}
+.skill-container h1{
+    color: #F0E68C;
+    text-align: center;
+    padding: 20px;
+}
+.skill-container ul li{
+    font-size: 20px;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+   text-decoration: none;
+   line-height: 2;
+}
