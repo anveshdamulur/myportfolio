@@ -114,7 +114,7 @@
     position: relative;
     display:inline-block;
     color: rgb(255, 106, 0);
-    font-size: 2em;
+    font-size: 4vw;
     padding: 15px;
     animation: animating 1s ease-in-out infinite;
     animation-delay: calc(0.1s * var(--i));
