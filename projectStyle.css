@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: sans-serif;
+
 }
 #project{
     /* background-image:url('../images/backimg.jpg'); */
@@ -116,6 +116,7 @@
     color: rgb(255, 106, 0);
     font-size: 4vw;
     font-weight: bold;
+    text-align: justify;
     padding: 15px;
     animation: animating 1s ease-in-out infinite;
     animation-delay: calc(0.1s * var(--i));
