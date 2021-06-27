@@ -1,15 +1,7 @@
 
 .navbar{
-    background-color:#d4d7de;
+    background-color:#4a73d3;
 }
-
-/* .navbar-dark .navbar-brand {
-    color: #000;
-} 
-
-.navbar-dark .navbar-nav .nav-link{
-    color: #000;
-} */
 
 .navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
     /* color: #fff; */
@@ -57,6 +49,10 @@
 
 a {
     text-decoration: none !important;
+    color: white;
+}
+a :hover{
+    color: red;
 }
 .text1{
     color:#FFFACD;    
@@ -77,6 +73,8 @@ a {
 .header span {
     letter-spacing: 0.1em;
     font-size: 5vw;
+    font-weight: 100;
+    font-style:oblique;
     margin: 0;
     padding: 0;
     width: 100%;
