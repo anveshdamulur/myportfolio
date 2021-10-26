@@ -7,7 +7,7 @@
     background: #83a4d4; /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #83a4d4, hsl(183, 100%, 86%)); /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #83a4d4, #b6fbff); 
-   min-height: 100vh;
+    min-height: 100vh;
 }   
 
 section{
