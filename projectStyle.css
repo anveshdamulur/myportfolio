@@ -145,6 +145,7 @@
     font-size: 1em;
     font-weight: bold;
     color: #0761e7;
+    margin-left: 10px;
 }
 .card-footer a:hover{
     color: #e95d0c;
